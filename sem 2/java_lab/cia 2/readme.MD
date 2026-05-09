@@ -1,8 +1,16 @@
-# CIA 2 - Java Policy Calculator
+# cia 2 - LIC Policy Management System
 
 A simple Java application demonstrating Object-Oriented Programming (OOP) concepts such as classes, objects, constructor overloading, and the use of the `this` keyword.
 
 ## Project Structure
+
+```text
+LIC_Management_System/
+│
+├── PolicyHolder.java      (Data Class)
+├── PolicyCalculator.java  (Logic Class)
+└── Main.java              (Execution Class)
+```
 
 - `Main.java`: The entry point of the application that creates objects and tests the functionality.
 - `PolicyHolder.java`: A class representing a policyholder with attributes like name, policy type, and premium amount. Demonstrates default and overloaded constructors.
