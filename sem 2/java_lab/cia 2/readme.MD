@@ -1,4 +1,4 @@
-# cia 2 - LIC Policy Management System
+# CIA 2 - LIC Policy Management System
 
 A simple Java application demonstrating Object-Oriented Programming (OOP) concepts such as classes, objects, constructor overloading, and the use of the `this` keyword.
 
