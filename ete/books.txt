@@ -1,0 +1,7 @@
+1, Java Basics, 10
+2, Python for Data, twenty
+3, Clean Code, 15
+
+5, Incomplete Record
+6, C++ Programming, 
+7, Head First Java, 30
